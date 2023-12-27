@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468108977786",
+    "project_id": "comrade-ec6f7",
+    "storage_bucket": "comrade-ec6f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468108977786:android:4976775c883928e440fdc3",
+        "android_client_info": {
+          "package_name": "com.example.comrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYOZ6YBGmMYBLzDX1KYmeHahmPKFUQsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468108977786:android:b7397fac563c992d40fdc3",
+        "android_client_info": {
+          "package_name": "com.example.comrade_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYOZ6YBGmMYBLzDX1KYmeHahmPKFUQsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
